@@ -5,8 +5,9 @@
     - b
     - c
   locations:
-    - php/
-    - php/folder/somewhere
+    - /php
+    - /php/deeper
+    - /php/folder/somewhere
 ]: #
 
 A PHP sample
