@@ -23,3 +23,7 @@ function test() {
 ````
 
 :smiling_face_with_halo: Hello dude!
+
+> :warning: **If you are using mobile browser**: Be very careful here!
+
+Hey!
