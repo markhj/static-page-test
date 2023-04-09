@@ -1,10 +1,10 @@
 locations:
   - location:
     target: /php
-    color: "#881100"
+    color: "#4F5B93"
     icon: php.svg
     
   - location:
     target: /docker
-    color: "#99aa22"
+    color: "#0b214a"
     icon: docker.svg
