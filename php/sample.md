@@ -10,4 +10,16 @@
     - /php/folder/somewhere
 ]: #
 
-A PHP sample
+# A PHP sample
+
+Something **written** and _read_.
+
+````php
+$helloWorld = new HelloWorld;
+
+function test() {
+  return 123;
+}
+````
+
+:smiling_face_with_halo: Hello dude!
