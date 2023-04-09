@@ -1,9 +1,10 @@
-- location:
+locations:
+  - location:
     target: /php
-    color: #881100,
+    color: "#881100"
     icon: https://github.com/markhj/static-page-test/blob/78252fe9b93e03d25c2d9f99f8a4f4da7dce4917/media/image_2023-04-09_174215260.png
-  
-- location:
+    
+  - location:
     target: /docker
-    color: #99aa22,
+    color: "#99aa22"
     icon: https://cdn.iconscout.com/icon/free/png-256/docker-3050921-2538289.png
