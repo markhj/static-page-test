@@ -1,3 +1,8 @@
+[
+  id: react-create-component
+  tags:
+]: #
+
 # Content
 Here is some content
 
