@@ -1,9 +1,9 @@
-name: Call API on Master Branch Update
+name: Call pull API
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   call_api:
